@@ -1,5 +1,3 @@
--- Sample Schema
-
 -- Customers table
 CREATE TABLE Customers (
     CustomerID INTEGER PRIMARY KEY,
